@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
