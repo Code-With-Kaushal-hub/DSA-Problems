@@ -12,7 +12,7 @@ public:
             int x = 0;
 
             for (char j : i) {
-                if (a.find(tolower(j)) == string::npos) {
+                if (!a.contains(tolower(j))) {
                     t = 1;
                     break;
                 } else {
@@ -29,7 +29,7 @@ public:
             x = 0;
 
             for (char j : i) {
-                if (b.find(tolower(j)) == string::npos) {
+                if (!b.contains(tolower(j))) {
                     t = 1;
                     break;
                 } else {
@@ -46,7 +46,7 @@ public:
             x = 0;
 
             for (char j : i) {
-                if (c.find(tolower(j)) == string::npos) {
+                if (!c.contains(tolower(j))) {
                     t = 1;
                     break;
                 } else {
