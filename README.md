@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
