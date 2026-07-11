@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
