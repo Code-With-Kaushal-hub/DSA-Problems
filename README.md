@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0053-maximum-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
