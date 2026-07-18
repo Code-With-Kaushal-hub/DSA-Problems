@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
