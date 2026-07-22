@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
