@@ -3,26 +3,24 @@ public:
     int maxWidthRamp(vector<int>& nums) {
 
         int n = nums.size();
+        stack<int> s;
 
-        vector<int> premax(n);
-
-        int ma = INT_MIN;
-        for (int i = n - 1; i >= 0; i--) {
-            ma = max(ma, nums[i]);
-            premax[i] = ma;
+        // Build decreasing stack
+        for (int i = 0; i < n; i++) {
+            if (s.empty() || nums[s.top()] > nums[i]) {
+                s.push(i);
+            }
         }
 
-        int i = 0, j = 0;
         int ans = 0;
 
-        while (j < n) {
+        // Scan from right to left
+        for (int i = n - 1; i >= 0 && !s.empty(); i--) {
 
-            while (i < j && nums[i] > premax[j])
-                i++;
-
-            ans = max(ans, j - i);
-
-            j++;
+            while (!s.empty() && nums[i] >= nums[s.top()]) {
+                ans = max(ans, i - s.top());
+                s.pop();
+            }
         }
 
         return ans;
