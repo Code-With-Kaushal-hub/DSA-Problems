@@ -6,8 +6,10 @@ public:
 
     for(int i = 0; i < piles.size(); i++) {
 
-        hours += (piles[i] + k - 1) / k;
-
+        hours += piles[i]/k;
+        if(piles[i]%k!=0){
+            hours++;
+        }
         if(hours > h)
             return false;
     }
