@@ -8,17 +8,18 @@ public:
                
                  count=count+j/time[i];
             }
+            if(count>=totalTrips){
+                return true;
+            }
 
         }
-        if(count>=totalTrips){
-            return true;
-        }
+        
         
         return false;
    }
     long long minimumTime(vector<int>& time, int totalTrips) {
         long long low=1;
-        sort(time.begin(),time.end());
+       
         int mi=*min_element(time.begin(),time.end());
         long long high=(long long)totalTrips*mi;
         while(low<high){
