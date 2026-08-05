@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
