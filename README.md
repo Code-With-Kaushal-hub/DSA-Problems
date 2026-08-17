@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
