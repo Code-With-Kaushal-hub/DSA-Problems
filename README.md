@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
