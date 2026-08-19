@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
 ## Array
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
 ## Greedy
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
