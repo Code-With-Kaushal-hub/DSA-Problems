@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
