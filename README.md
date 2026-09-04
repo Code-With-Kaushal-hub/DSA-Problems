@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2187-minimum-time-to-complete-trips) |
+| [3903-smallest-stable-index-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [3903-smallest-stable-index-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
