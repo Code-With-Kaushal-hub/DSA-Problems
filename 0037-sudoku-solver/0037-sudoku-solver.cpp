@@ -1,66 +1,60 @@
-class Solution {
-public:
-
-    bool sudokusolver(vector<vector<char>>& board,int row,int col){
-        if(row==9){
-            
-            return true;
-        }
-        int nextrow=row;
-        int nextcol=col+1;
-        if(col+1==9){
-            nextrow=row+1;
-            nextcol=0;
-        }
-        if(board[row][col]!='.'){
-            return sudokusolver(board,nextrow,nextcol);
-        }
-        for(int val=1;val<=9;val++){
-            if(issafe(board,row,col,val)){
-                board[row][col] = char('0' + val);
-                if(sudokusolver(board,nextrow,nextcol)){
-                    return true;
-                }
-                board[row][col]='.';
-            }
-
-
-        }
-        return false;
-
-
-    }
-    bool issafe(vector<vector<char>>& board,int row,int col,int digit){
-        for(int i=0;i<=8;i++){
-            if(board[i][col]==char('0' + digit)){
-                return false;
-            }
+class Solution { 
+public: 
+ 
+    bool sudokusolver(vector<vector<char>>& board, int row, int col) { 
         
-        }
-        for(int j=0;j<=8;j++){
-            if(board[row][j]==char('0' + digit)){
-                return false;
-            }
-            
-        }
-        int newrow=(row/3)*3;
-        int newcol=(col/3)*3;
-        for(int i=newrow;i<=newrow+2;i++){
-            for(int j=newcol;j<=newcol+2;j++){
-                if(board[i][j]==char('0' + digit)){
-                return false;
-            }
-            
-
-            }
-        }
-        return true;
-    }
-    void solveSudoku(vector<vector<char>>& board) {
-        sudokusolver(board,0,0);
+        for(int i = 0; i < 9; i++) { 
+            for(int j = 0; j < 9; j++) { 
+                
+                if(board[i][j] == '.') { 
+                    
+                    for(int val = 1; val <= 9; val++) { 
+                        
+                        if(issafe(board, i, j, val)) { 
+                            
+                            board[i][j] = char('0' + val); 
+                            
+                            if(sudokusolver(board, i, j + 1)) { 
+                                return true; 
+                            } 
+                            else { 
+                                board[i][j] = '.'; 
+                            } 
+                        } 
+                    } 
+                    
+                    return false; 
+                } 
+            } 
+        } 
         
-    }
-
+        return true; 
+    } 
+    
+    bool issafe(vector<vector<char>>& board, int row, int col, int digit) { 
+        
+        for(int i = 0; i <= 8; i++) { 
+            
+            if(board[i][col] == char('0' + digit)) { 
+                return false; 
+            } 
+            
+            if(board[row][i] == char('0' + digit)) { 
+                return false; 
+            } 
+ 
+            if(board[3 * (row / 3) + i / 3]
+                    [3 * (col / 3) + i % 3] == char('0' + digit)) { 
+                return false; 
+            } 
+        } 
+        
+        return true; 
+    } 
+    
+    void solveSudoku(vector<vector<char>>& board) { 
+        sudokusolver(board, 0, 0); 
+    } 
 };
 /*1. Event Propagation — Bubbling & Capturing
 2. prototype in JS
