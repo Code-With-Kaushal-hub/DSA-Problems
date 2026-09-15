@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0062-unique-paths) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 ## Memoization
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Database
 |  |
