@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0707-design-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
