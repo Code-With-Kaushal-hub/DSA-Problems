@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [3903-smallest-stable-index-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Greedy
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
