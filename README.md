@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
