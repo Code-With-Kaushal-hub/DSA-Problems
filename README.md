@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
