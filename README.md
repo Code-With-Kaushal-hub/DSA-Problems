@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
