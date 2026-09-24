@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
