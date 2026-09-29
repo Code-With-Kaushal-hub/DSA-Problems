@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0819-most-common-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0819-most-common-word) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
