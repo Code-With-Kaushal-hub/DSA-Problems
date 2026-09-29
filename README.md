@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0819-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0819-most-common-word) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0707-design-linked-list) |
 ## Merge Sort
 |  |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
