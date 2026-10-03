@@ -10,59 +10,53 @@
  */
 class Solution {
 public:
-    void insertAtEnd(ListNode* &head, int value) {
-    ListNode* newNode = new ListNode(value);
-
-    if (head == NULL) {
-        head = newNode;
-        return;
-    }
-
-    ListNode* temp = head;
-    while (temp->next != NULL) {
-        temp = temp->next;
-    }
-    temp->next = newNode;
-}
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* head = NULL;
-        int carry=0;
-        int val;
+        ListNode* temp = new ListNode(-1);
+         ListNode* head=temp;
+         int carry=0;
+         while(l1!=NULL&&l2!=NULL){
+            int x=l1->val+l2->val+carry;
+            carry=x/10;
 
-        while(l1!=NULL&& l2!=NULL){
-            
-            int p=l1->val+l2->val+carry;
-            
-            val=p%10;
-            carry=p/10;
-          
-           
-           
-            
-            insertAtEnd(head,val);
+            ListNode* newNode = new ListNode(x%10);
+            temp->next=newNode;
+            temp=temp->next;
+
             l1=l1->next;
             l2=l2->next;
-        }
-        while(l1!=NULL){
-             int p=l1->val+carry;
-        
-                val=p%10;
-                carry=p/10;
+         }
+         if(l1==NULL){
+            while(l2!=NULL){
+                int x=l2->val+carry;
+                carry=x/10;
+
+                ListNode* newNode = new ListNode(x%10);
+                temp->next=newNode;
+                temp=temp->next;
+
             
-            l1=l1->next;
-            insertAtEnd(head,val);
-        }
-        while(l2!=NULL){
-             int p=l2->val+carry;
-                            val=p%10;
-                carry=p/10;
+                l2=l2->next;
+            }
+         }
+         else{
+             while(l1!=NULL){
+                int x=l1->val+carry;
+                carry=x/10;
+
+                ListNode* newNode = new ListNode(x%10);
+                temp->next=newNode;
+                temp=temp->next;
+
             
-            l2=l2->next;
-            insertAtEnd(head,val);
-        }
-        if(carry!=0){
-             insertAtEnd(head,carry);
-        }
-        return head;
+                l1=l1->next;
+            }
+           
+         }
+          if(carry!=0){
+                ListNode* newNode = new ListNode(carry);
+                temp->next=newNode;
+                temp=temp->next;
+            }
+         return head->next;
     }
 };
