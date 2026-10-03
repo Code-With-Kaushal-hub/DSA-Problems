@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
