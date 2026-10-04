@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
+| [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0819-most-common-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
