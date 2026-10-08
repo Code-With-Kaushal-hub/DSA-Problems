@@ -452,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
