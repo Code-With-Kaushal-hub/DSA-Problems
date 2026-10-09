@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
