@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0707-design-linked-list) |
 ## Merge Sort
