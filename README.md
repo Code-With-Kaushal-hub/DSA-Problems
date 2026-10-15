@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0224-basic-calculator](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
