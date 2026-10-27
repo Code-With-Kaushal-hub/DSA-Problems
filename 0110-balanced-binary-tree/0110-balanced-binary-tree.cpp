@@ -11,20 +11,27 @@
  */
 class Solution {
 public:
-    int t=1;
-    int inorder(TreeNode* root){
-        if(root==NULL){
+
+    bool bol=true;
+
+    int height(TreeNode* root) {
+        if (root == NULL) {
             return 0;
         }
-        int a=inorder(root->left)+1;
-        int b=inorder(root->right)+1;
-        if(abs(a-b)>1){
-            t=0;
+
+        int l = height(root->left)+1;
+        int r = height(root->right)+1;
+
+
+        if(abs(l-r)>=2){
+             bol=false;
         }
-        return max(a,b);
+        return max(l,r);
     }
+
+  
     bool isBalanced(TreeNode* root) {
-        int x=inorder(root);
-        return t;
+        height(root);
+        return bol;
     }
 };
