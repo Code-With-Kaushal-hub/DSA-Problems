@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0733-flood-fill) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0819-most-common-word) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0155-min-stack) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0707-design-linked-list) |
 ## Merge Sort
@@ -532,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
