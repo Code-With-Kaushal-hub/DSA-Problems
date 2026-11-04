@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0155-min-stack) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0207-course-schedule) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0148-sort-list) |
