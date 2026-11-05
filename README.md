@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/2187-minimum-time-to-complete-trips) |
