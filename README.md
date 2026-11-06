@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0113-path-sum-ii) |
 | [0980-unique-paths-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
