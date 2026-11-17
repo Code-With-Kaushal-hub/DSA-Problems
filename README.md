@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -567,4 +569,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
