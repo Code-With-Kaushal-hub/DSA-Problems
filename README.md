@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0500-keyboard-row) |
+| [0518-coin-change-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0704-binary-search) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0518-coin-change-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
@@ -584,4 +586,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Code-With-Kaushal-hub/DSA-Problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
